@@ -1,4 +1,4 @@
-[Boxer](https://joulyanomzaber.github.io/DH4A_Boxer/)
+[Boxing](https://joulyanomzaber.github.io/DH4A_Boxing/)
 
 [Finexo](https://joulyanomzaber.github.io/DH4A_Finexo/)
 
